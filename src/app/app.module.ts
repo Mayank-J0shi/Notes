@@ -7,12 +7,14 @@ import { NotesListComponent } from './notes-list/notes-list.component';
 import { NoteComponent } from './note/note.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatIconModule } from '@angular/material/icon';
+import { ViewNoteComponent } from './view-note/view-note.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NotesListComponent,
-    NoteComponent
+    NoteComponent,
+    ViewNoteComponent
   ],
   imports: [
     BrowserModule,
