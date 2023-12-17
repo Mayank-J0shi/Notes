@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "header": "Meeting Notes",
+    "date": "2023-01-15",
+    "body": "Discuss project progress and upcoming tasks."
+  },
+  {
+    "id": "2",
+    "header": "Ideas for Marketing Campaign",
+    "date": "2023-02-03",
+    "body": "Brainstorm and document creative ideas for the marketing team."
+  },
+  {
+    "id": "3",
+    "header": "Daily Journal",
+    "date": "2023-02-10",
+    "body": "Reflect on the day's activities and jot down thoughts."
+  },
+  {
+    "id": "4",
+    "header": "Project Review",
+    "date": "2023-02-20",
+    "body": "Review project milestones and plan for the next phase."
+  },
+  {
+    "id": "5",
+    "header": "Research Findings",
+    "date": "2023-03-05",
+    "body": "Summarize key findings from recent research activities."
+  },
+  {
+    "id": "6",
+    "header": "Goals for the Week",
+    "date": "2023-03-12",
+    "body": "Set achievable goals and priorities for the upcoming week."
+  },
+  {
+    "id": "7",
+    "header": "Client Meeting Prep",
+    "date": "2023-03-25",
+    "body": "Prepare for the upcoming meeting with the client."
+  },
+  {
+    "id": "8",
+    "header": "Book Recommendations",
+    "date": "2023-04-02",
+    "body": "List interesting books to read in the next month."
+  },
+  {
+    "id": "9",
+    "header": "Fitness Log",
+    "date": "2023-04-10",
+    "body": "Track daily exercise routines and fitness goals."
+  }
+]

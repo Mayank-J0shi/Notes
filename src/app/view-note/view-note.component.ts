@@ -1,10 +1,6 @@
 import { Component, Input, OnChanges } from '@angular/core';
+import { Note } from '../ts-types.util';
 
-interface Note {
-  header: string;
-  date: string;
-  body: string;
-};
 @Component({
   selector: 'app-view-note',
   templateUrl: './view-note.component.html',
@@ -15,6 +11,7 @@ export class ViewNoteComponent {
 
   @Input()
   note: Note = {
+    id: '',
     header: '',
     date: '',
     body: ''
