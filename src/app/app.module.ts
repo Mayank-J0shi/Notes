@@ -8,13 +8,15 @@ import { NoteComponent } from './note/note.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatIconModule } from '@angular/material/icon';
 import { ViewNoteComponent } from './view-note/view-note.component';
+import { HeaderComponent } from './header/header.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NotesListComponent,
     NoteComponent,
-    ViewNoteComponent
+    ViewNoteComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,
